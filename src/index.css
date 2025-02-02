@@ -1,0 +1,21 @@
+@import "bootstrap/dist/css/bootstrap.min.css";
+* {
+  font-family: Cubano;
+}
+
+body {
+  padding: 1rem;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+input,
+textarea {
+  margin: 10px;
+  min-width: 500px;
+}
+
+div {
+  display: flex;
+  flex-direction: column;
+}
